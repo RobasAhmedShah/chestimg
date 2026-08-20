@@ -1,6 +1,5 @@
-# Credentials and private dataset inputs
+# Credentials and private local settings
 .env
-IMAGE_FILENAMES
 *.credentials
 
 # Downloaded data and temporary files
