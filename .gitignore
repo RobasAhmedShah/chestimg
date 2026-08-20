@@ -1,0 +1,16 @@
+# Credentials and private dataset inputs
+.env
+IMAGE_FILENAMES
+*.credentials
+
+# Downloaded data and temporary files
+physionet_parallel/
+physionet.org/
+downloads/
+chestimg_*/
+progress_test_*/
+*.part
+*.replace.part
+
+# Platform metadata
+*:Zone.Identifier
